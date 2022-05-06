@@ -1,25 +1,3 @@
-# madhur_kakkar-arko_roychowdhury_MMED-3014-research_1
-
-Building an SQL Database
-
-# Team Members
-
-Arko Roychowdhury
-Madhur Kakkar
-
-# Additional Files
-
--Reference Videos & Articles (documents/references.pdf)
--Project Roadmap (documents/roadmap.pdf)
-
-# Project Description
-
-You and up to one other student (ie. You may work in pairs or alone) will have one week to design and implement a database service class that gives a developer the ability to query against a MySQL database. You'll then create an example site that uses that class to interface with your database.
-
-# Link to github repo
-
-git@github.com:arkorch/madhur_kakkar-arko_roychowdhury_MMED-3014-research_1.git
-
 # Explanation of process
 
 - creating a folder structure were the child of an element is enclosed inside a directory.
